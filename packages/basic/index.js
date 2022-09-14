@@ -34,7 +34,7 @@ module.exports = {
   plugins: [
     'html',
     'unicorn',
-    'antfu',
+    'kitiho',
   ],
   settings: {
     'import/resolver': {
@@ -330,9 +330,9 @@ module.exports = {
     'yml/quotes': ['error', { prefer: 'single', avoidEscape: false }],
     'yml/no-empty-document': 'off',
 
-    // antfu
-    'antfu/if-newline': 'error',
-    'antfu/import-dedupe': 'error',
-    // 'antfu/prefer-inline-type-import': 'error',
+    // kitiho
+    'kitiho/if-newline': 'error',
+    'kitiho/import-dedupe': 'error',
+    // 'kitiho/prefer-inline-type-import': 'error',
   },
 }

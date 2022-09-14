@@ -5,7 +5,4 @@
   "include": [
     "./packages/**/*.ts"
   ],
-  "exclude": [
-    "./fixtures/**/*.*"
-  ]
 }

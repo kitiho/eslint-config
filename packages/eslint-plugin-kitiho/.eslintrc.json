@@ -1,0 +1,6 @@
+{
+  "extends": "@kitiho",
+  "plugins": [
+    "kitiho"
+  ]
+}
