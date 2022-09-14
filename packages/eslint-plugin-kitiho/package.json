@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-kitiho",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "homepage": "https://github.com/kitiho/eslint-config",
   "main": "./dist/index.cjs",
