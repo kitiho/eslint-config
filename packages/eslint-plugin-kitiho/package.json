@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-kitiho",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "homepage": "https://github.com/kitiho/eslint-config",
   "main": "./dist/index.cjs",
@@ -10,7 +10,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "rimraf dist && unbuild",
+    "build": "unbuild",
     "stub": "unbuild --stub",
     "test": "vitest",
     "prepublishOnly": "nr build"

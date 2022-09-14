@@ -1,6 +1,6 @@
 {
   "name": "@kitiho/eslint-config-monorepo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "packageManager": "pnpm@7.1.0",
   "author": "Kitiho <duanjipeng0328@gmail.com> (https://github.com/kitiho/)",
